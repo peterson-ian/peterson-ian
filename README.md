@@ -1,4 +1,4 @@
-![Descrição da imagem](dev%20peterson_ian%20dev.png)
+![Banner](banner.png)
 
 ## Hi there 👋
 
