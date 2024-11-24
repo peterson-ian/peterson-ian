@@ -30,6 +30,9 @@ I'm a technology enthusiast, dedicated to creating solutions that provide user e
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
+## Hobby 
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=22rfe2mmsxlucatjnsoz63gui)]
 <!--
 **peterson-ian/peterson-ian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
