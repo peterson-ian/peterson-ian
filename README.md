@@ -9,7 +9,7 @@ I'm a technology enthusiast, dedicated to creating solutions that provide user e
   <a href="https://peterson-ian.github.io/my-portfolio/">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/peterson-ian">
+  <a href="https://www.linkedin.com/in/peterson-ian">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
