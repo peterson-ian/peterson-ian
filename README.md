@@ -29,7 +29,3 @@ I'm a technology enthusiast, dedicated to creating solutions that provide user e
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
-
-## Hobby 
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=22rfe2mmsxlucatjnsoz63gui&count=1)
